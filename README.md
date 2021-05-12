@@ -20,6 +20,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ### iOS/iPadOS
 - The ability to view and configure Smart Mailboxes in Mail for iOS. (Becky Hansmeyer)
+- The ability to schedule a background task for a specific time or interval. (Darren Jones [@venderbase](https://twitter.com/venderbase))
 
 ### watchOS
 
