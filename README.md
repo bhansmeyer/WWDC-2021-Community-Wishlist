@@ -1,7 +1,7 @@
 # WWDC 2021 Community Wishlist
 A compilation of predictions and wishlists for WWDC 2021.
 
-## Blog Posts & Tweets
+## Blog Posts, Articles & Tweets
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
 - [Ryan Jones (@rjonesy)](https://twitter.com/rjonesy/status/1391079898077437954)
