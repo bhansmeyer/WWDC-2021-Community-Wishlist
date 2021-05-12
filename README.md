@@ -10,8 +10,8 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 
 ## Videos
-- [iPadOS 15 Wishlist by Damian Mal](https://www.youtube.com/watch?v=eU28EhV66bI)
-- [iPadOS 15 What to Expect & Wishlist! by Fernando Silva](https://www.youtube.com/watch?v=kW4S8pKM_jM&t=2s)
+- [iPadOS 15 Wishlist](https://www.youtube.com/watch?v=eU28EhV66bI) by Damian Mal
+- [iPadOS 15 What to Expect & Wishlist!](https://www.youtube.com/watch?v=kW4S8pKM_jM&t=2s) by Fernando Silva
 
 ## User-Facing Apps & Features
 
