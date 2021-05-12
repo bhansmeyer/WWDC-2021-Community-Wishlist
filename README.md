@@ -21,7 +21,8 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### watchOS
 
 ### macOS
- 
+- Widgets should be moved somewhere other than the Notifications panel. (Becky Hansmeyer)
+
 ### tvOS
 
 ## Developer Tools & Frameworks
