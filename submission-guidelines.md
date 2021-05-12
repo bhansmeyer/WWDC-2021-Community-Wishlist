@@ -1,6 +1,8 @@
 # Submission Guidelines and Expectations
 
 ## Formatting
+The list is formatted using Markdown. For a refresher on Markdown, see [Basic Syntax](https://www.markdownguide.org/basic-syntax/). Basically, the text you want to serve as a link goes in brackets, and the URL itself follows immediately inside parentheses.
+
 For blog posts, please list the name of the author rather than the title of the post.
 For tweets, please include the author's name (if available) and username along with a link to the tweet.
 For videos, please include the title of the video and the author's name or username.
