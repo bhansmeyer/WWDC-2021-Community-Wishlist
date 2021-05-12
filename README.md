@@ -16,6 +16,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ## User-Facing Apps & Features
 
 ### iOS/iPadOS
+- The ability to view and configure Smart Mailboxes in Mail for iOS. (Becky Hansmeyer)
 
 ### watchOS
 
