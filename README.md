@@ -28,12 +28,15 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### tvOS
 
 ## Developer Tools & Frameworks
+- SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ### UIKit
 
 ### SwiftUI
+- A way to manage First Responder (think TextField focus and tab order)
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
+- A modern successor to Core Data that plays well with Combine and SwiftUI
 
 ### Xcode
 - Xcode for iPad
