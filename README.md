@@ -6,7 +6,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
 - [Ryan Jones (@rjonesy)](https://twitter.com/rjonesy/status/1391079898077437954)
 
-## Podcasts
+## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 
 ## Videos
