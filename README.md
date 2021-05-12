@@ -9,6 +9,10 @@ A compilation of predictions and wishlists for WWDC 2021.
 ## Podcasts
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 
+## Videos
+- [iPadOS 15 Wishlist by Damian Mal](https://www.youtube.com/watch?v=eU28EhV66bI)
+- [iPadOS 15 What to Expect & Wishlist! by Fernando Silva](https://www.youtube.com/watch?v=kW4S8pKM_jM&t=2s)
+
 ## User-Facing Apps & Features
 
 ### iOS/iPadOS
@@ -28,6 +32,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 
 ### Xcode
+- Xcode for iPad
 
 ### Miscellaneous
 
