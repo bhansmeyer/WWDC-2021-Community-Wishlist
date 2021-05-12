@@ -1,4 +1,5 @@
-# WWDC 2021 Community Wishlist
+<p align="center"><img src="https://github.com/bhansmeyer/WWDC-2021-Community-Wishlist/blob/main/wishlist_header.jpg?raw=true" width="600" alt="WWDC 2021 Community Wishlist"></p>
+
 A compilation of predictions and wishlists for WWDC 2021.
 
 ## Blog Posts, Articles & Tweets
