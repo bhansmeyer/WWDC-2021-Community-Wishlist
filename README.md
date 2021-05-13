@@ -30,7 +30,6 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### tvOS
 
 ## Developer Tools & Frameworks
-- SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ### UIKit
 
@@ -48,6 +47,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Miscellaneous
 - SwiftUI-like simplification of 2D/3D (perhaps building on top of SpriteKit/SceneKit like SwiftUI builds on UIKit) (Josh Hrach)
 - Ability to define alternate app icons as App Icon Assets instead of manually including icon images in the project. (Josh Hrach)
+- SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ## App Store Policy, Tools, and APIs
 
