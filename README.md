@@ -25,16 +25,23 @@ A compilation of predictions and wishlists for WWDC 2021.
 - The ability to back up to an external drive (i.e. Time Machine)
 - A method for adding third-party wallpapers that won't clutter up your Photo Library and also supports light/dark mode
 - Some degree of widget interactivity, such as the ability to easily start/stop timers, check to-do items, increment a counter, etc.
+- Battery Health on iPad
+- App Library on iPad + ability to place widgets anywhere on home screen
+- Window management using keyboard shortcuts (just copy Windows already, so Cmd + <- tiles a window to the left-half of the screen)
+- Calculator app on iPad
 
 ### watchOS
+- Apple Watch pairing with iPad
 
 ### macOS
 - Widgets should be moved somewhere other than the Notifications panel. (Becky Hansmeyer)
+- Window management using keyboard shortcuts (just copy Windows already, so Cmd + <- tiles a window to the left-half of the screen)
 
 ### tvOS
 
 ## Developer Tools & Frameworks
 - Swift Playground for developing FxPlug 4 extensions to video applications (Alex ‘4D’ Gollner [@alex4D](https://twitter.com/alex4D))
+- Reduce/remove Developer Program membership fee
 
 ### UIKit
 
