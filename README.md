@@ -30,7 +30,6 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### tvOS
 
 ## Developer Tools & Frameworks
-- SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ### UIKit
 
@@ -52,6 +51,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Run custom code in iCloud (similar to lambda functions in AWS)
 - CI/CD tools
 - Reorganize documentation in a way that reduces duplication of functions that are common between all SwiftUI views
+- SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ## App Store Policy, Tools, and APIs
 
