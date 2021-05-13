@@ -22,6 +22,9 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### iOS/iPadOS
 - The ability to view and configure Smart Mailboxes in Mail for iOS. (Becky Hansmeyer)
 - The ability to schedule a background task for a specific time or interval. (Darren Jones [@venderbase](https://twitter.com/venderbase))
+- The ability to back up to an external drive (i.e. Time Machine)
+- A method for adding third-party wallpapers that won't clutter up your Photo Library and also supports light/dark mode
+- Some degree of widget interactivity, such as the ability to easily start/stop timers, check to-do items, increment a counter, etc.
 
 ### watchOS
 
@@ -39,6 +42,13 @@ A compilation of predictions and wishlists for WWDC 2021.
 - A way to manage First Responder (think TextField focus and tab order)
 - Search Bar support or similar in `List`s or `ScrollView`s to add views to the navigation bar that appear with a scroll gesture. ([@JoshHrach](https://twitter.com/JoshHrach))
 - Testing framework with support for querying Views and modifiers similar to [ViewInspector](https://github.com/nalexn/ViewInspector)
+- Pull-to-refresh
+- A way to change the status bar style (light/dark) at runtime using the SwiftUI app life cycle
+- Accessory views for TextFields/TextViews
+- Inactive/destructive states in Context Menus
+- Context menu preview-providers (for showing a custom preview on long-press/right-click)
+- SwiftUI version of UIVisualEffectView
+- Native support for the share sheet
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
@@ -58,6 +68,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - New flavors of ProRes: ProRes 444D to encode depth maps, ProRes AR to encode detected environment at capture time (Alex ‘4D’ Gollner)
 
 ## App Store Policy, Tools, and APIs
+- TestFlight for macOS
 
 ## Augmented Reality, Virtual Reality, or Mixed Reality
 - Support ARKit replay data in simulators
