@@ -3,6 +3,7 @@
 A compilation of predictions and wishlists for WWDC 2021.
 
 ## Blog Posts, Articles & Tweets
+- [Becky Hansmeyer](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/)
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
 - [Matt VanOrmer, Peer Reviewed](https://www.peerreviewed.io/blog/2021/5/4/my-hope-filled-wish-list-for-wwdc-2021)
