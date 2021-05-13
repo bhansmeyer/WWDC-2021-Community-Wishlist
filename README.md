@@ -36,6 +36,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### SwiftUI
 - A way to manage First Responder (think TextField focus and tab order)
 - Search Bar support or similar in `List`s or `ScrollView`s to add views to the navigation bar that appear with a scroll gesture. ([@JoshHrach](https://twitter.com/JoshHrach))
+- Testing framework with support for querying Views and modifiers similar to [ViewInspector](https://github.com/nalexn/ViewInspector)
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
@@ -47,11 +48,15 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Miscellaneous
 - SwiftUI-like simplification of 2D/3D (perhaps building on top of SpriteKit/SceneKit like SwiftUI builds on UIKit) (Josh Hrach)
 - Ability to define alternate app icons as App Icon Assets instead of manually including icon images in the project. (Josh Hrach)
+- Run custom code in iCloud (similar to lambda functions in AWS)
+- CI/CD tools
+- Reorganize documentation in a way that reduces duplication of functions that are common between all SwiftUI views
 - SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 
 ## App Store Policy, Tools, and APIs
 
 ## Augmented Reality, Virtual Reality, or Mixed Reality
+- Support ARKit replay data in simulators
 
 ## Other
 - Improvements to music storage and syncing with Apple Music that will hopefully mean reliable song integrity when dealing with artists with multiple live concerts, especially when uploading song versions not found on Apple Music. (Apple Music currently can't handle this and destroys music libraries as a result.) (Josh Hrach)
