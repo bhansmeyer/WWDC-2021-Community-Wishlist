@@ -31,6 +31,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### tvOS
 
 ## Developer Tools & Frameworks
+- Swift Playground for developing FxPlug 4 extensions to video applications (Alex ‘4D’ Gollner [@alex4D](https://twitter.com/alex4D))
 
 ### UIKit
 
@@ -42,6 +43,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
 - Improved support in NSPersistentCloudKitContainer for scheduling background uploads, improving the reliability of saving to CloudKit when used in an app extension (Josh Hrach)
+- AVFoundation to support display and capture of additional video channels beyond Red, Green and Blue: Such as Alpha and Depth (Alex ‘4D’ Gollner)
 
 ### Xcode
 - Xcode for iPad
@@ -53,6 +55,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - CI/CD tools
 - Reorganize documentation in a way that reduces duplication of functions that are common between all SwiftUI views
 - SwiftUI hot-reloading similar to Flutter (Simulator and on device)
+- New flavors of ProRes: ProRes 444D to encode depth maps, ProRes AR to encode detected environment at capture time (Alex ‘4D’ Gollner)
 
 ## App Store Policy, Tools, and APIs
 
