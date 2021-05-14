@@ -32,6 +32,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ### watchOS
 - Apple Watch pairing with iPad
+- Third-party watch faces
 
 ### macOS
 - Widgets should be moved somewhere other than the Notifications panel. (Becky Hansmeyer)
@@ -40,8 +41,6 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### tvOS
 
 ## Developer Tools & Frameworks
-- Swift Playground for developing FxPlug 4 extensions to video applications (Alex ‘4D’ Gollner [@alex4D](https://twitter.com/alex4D))
-- Reduce/remove Developer Program membership fee
 
 ### UIKit
 
@@ -56,6 +55,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Context menu preview-providers (for showing a custom preview on long-press/right-click)
 - SwiftUI version of UIVisualEffectView
 - Native support for the share sheet
+- Ability to add an alphabetical section index to a List
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
@@ -65,7 +65,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Xcode
 - Xcode for iPad
 
-### Miscellaneous
+### Miscellaneous (Developer Tools & Frameworks)
 - SwiftUI-like simplification of 2D/3D (perhaps building on top of SpriteKit/SceneKit like SwiftUI builds on UIKit) (Josh Hrach)
 - Ability to define alternate app icons as App Icon Assets instead of manually including icon images in the project. (Josh Hrach)
 - Run custom code in iCloud (similar to lambda functions in AWS)
@@ -73,6 +73,9 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Reorganize documentation in a way that reduces duplication of functions that are common between all SwiftUI views
 - SwiftUI hot-reloading similar to Flutter (Simulator and on device)
 - New flavors of ProRes: ProRes 444D to encode depth maps, ProRes AR to encode detected environment at capture time (Alex ‘4D’ Gollner)
+- Swift Playground for developing FxPlug 4 extensions to video applications (Alex ‘4D’ Gollner [@alex4D](https://twitter.com/alex4D))
+- Reduce/remove Developer Program membership fee
+- Ability to build watch faces
 
 ## App Store Policy, Tools, and APIs
 - TestFlight for macOS
