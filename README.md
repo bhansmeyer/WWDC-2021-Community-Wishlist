@@ -29,6 +29,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - App Library on iPad + ability to place widgets anywhere on home screen
 - Window management using keyboard shortcuts (just copy Windows already, so Cmd + <- tiles a window to the left-half of the screen)
 - Calculator app on iPad
+- Multiple user profiles on iPad.
 
 ### watchOS
 - Apple Watch pairing with iPad
@@ -56,6 +57,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - SwiftUI version of UIVisualEffectView
 - Native support for the share sheet
 - Ability to add an alphabetical section index to a List
+- Add pin selection detection in `Map` and add a two way binding for the selected pin.
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
