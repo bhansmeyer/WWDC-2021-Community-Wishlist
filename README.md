@@ -13,6 +13,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
+- [AppStories Episode 218: Our iOS 15 Wishes](https://appstories.net/episodes/218/)
 
 ## Videos
 - [iPadOS 15 Wishlist](https://www.youtube.com/watch?v=eU28EhV66bI) by Damian Mal
