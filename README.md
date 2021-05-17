@@ -17,6 +17,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ## Videos
 - [iPadOS 15 Wishlist](https://www.youtube.com/watch?v=eU28EhV66bI) by Damian Mal
 - [iPadOS 15 What to Expect & Wishlist!](https://www.youtube.com/watch?v=kW4S8pKM_jM&t=2s) by Fernando Silva
+- [What iPadOS 15 Should Be...](https://www.youtube.com/watch?v=RvZU0fXbr3Y) by Christopher Lawley
 
 ## User-Facing Apps & Features
 
@@ -67,6 +68,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ### Xcode
 - Xcode for iPad
+- A better way to manage build numbers
 
 ### Miscellaneous (Developer Tools & Frameworks)
 - SwiftUI-like simplification of 2D/3D (perhaps building on top of SpriteKit/SceneKit like SwiftUI builds on UIKit) (Josh Hrach)
