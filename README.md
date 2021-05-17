@@ -60,6 +60,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Native support for the share sheet
 - Ability to add an alphabetical section index to a List
 - Add pin selection detection in `Map` and add a two way binding for the selected pin.
+- Ability to include `Link` within `Text`
 
 ### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
