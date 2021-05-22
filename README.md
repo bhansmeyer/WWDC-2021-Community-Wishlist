@@ -21,6 +21,8 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [iPadOS 15 What to Expect & Wishlist!](https://www.youtube.com/watch?v=kW4S8pKM_jM&t=2s) by Fernando Silva
 - [What iPadOS 15 Should Be...](https://www.youtube.com/watch?v=RvZU0fXbr3Y) by Christopher Lawley
 
+## Hardware Announcements
+
 ## User-Facing Apps & Features
 
 ### iOS/iPadOS
