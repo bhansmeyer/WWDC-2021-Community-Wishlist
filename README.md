@@ -14,6 +14,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 - [AppStories Episode 218: Our iOS 15 Wishes](https://appstories.net/episodes/218/)
+- [AppStories Episode 220: Our iPadOS 15 Wishes](https://appstories.net/episodes/220/)
 - [Swift by Sundell 97: "Anything can happen during WWDC"](https://www.swiftbysundell.com/podcast/97/) with special guest Ish ShaBazz
 
 ## Videos
