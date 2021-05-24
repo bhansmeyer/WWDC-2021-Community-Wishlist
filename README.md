@@ -10,6 +10,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Matt VanOrmer, Peer Reviewed](https://www.peerreviewed.io/blog/2021/5/4/my-hope-filled-wish-list-for-wwdc-2021)
 - [Ryan Jones (@rjonesy)](https://twitter.com/rjonesy/status/1391079898077437954)
 - [Simon Nickel (@simonnickel)](https://twitter.com/simonnickel/status/1352206945927761921?s=20)
+- [Simon B. Støvring (@simonbs)](https://twitter.com/simonbs/status/1396931887403315203)
 
 ## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
