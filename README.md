@@ -7,6 +7,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Becky Hansmeyer](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/)
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
+- [Majid Jabrayilov](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) (SwiftUI Wishlist)
 - [Matt VanOrmer, Peer Reviewed](https://www.peerreviewed.io/blog/2021/5/4/my-hope-filled-wish-list-for-wwdc-2021)
 - [Ryan Jones (@rjonesy)](https://twitter.com/rjonesy/status/1391079898077437954)
 - [Simon Nickel (@simonnickel)](https://twitter.com/simonnickel/status/1352206945927761921?s=20)
@@ -16,6 +17,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 - [AppStories Episode 218: Our iOS 15 Wishes](https://appstories.net/episodes/218/)
 - [AppStories Episode 220: Our iPadOS 15 Wishes](https://appstories.net/episodes/220/)
+- [Cup of Tech Episode 130: WWDC21 Predictions - Respect & Boos](http://cupof.tech/episode/0a165dba/130-wwdc21-predictions-respect-boos) (Predictions)
 - [Swift by Sundell 97: "Anything can happen during WWDC"](https://www.swiftbysundell.com/podcast/97/) with special guest Ish ShaBazz
 
 ## Videos
