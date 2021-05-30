@@ -3,7 +3,7 @@
 A compilation of predictions and wishlists for WWDC 2021.
 
 ## Blog Posts, Articles & Tweets
-- [Luke Filipowicz, iMore](https://www.imore.com/these-are-features-i-want-see-watchos-8)
+- [Luke Filipowicz, iMore](https://www.imore.com/these-are-features-i-want-see-watchos-8) (watchOS 8)
 - [Becky Hansmeyer](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/)
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
@@ -12,6 +12,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Ryan Jones (@rjonesy)](https://twitter.com/rjonesy/status/1391079898077437954)
 - [Simon Nickel (@simonnickel)](https://twitter.com/simonnickel/status/1352206945927761921?s=20)
 - [Simon B. Støvring (@simonbs)](https://twitter.com/simonbs/status/1396931887403315203)
+- [Zac Hall, 9to5Mac](https://9to5mac.com/2021/05/30/ipados-15-wish-list-for-improving-ipad-quality-of-life-sans-mac/) (iPadOS 15)
 
 ## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
