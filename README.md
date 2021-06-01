@@ -13,6 +13,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Simon Nickel (@simonnickel)](https://twitter.com/simonnickel/status/1352206945927761921?s=20)
 - [Simon B. Støvring (@simonbs)](https://twitter.com/simonbs/status/1396931887403315203)
 - [Zac Hall, 9to5Mac](https://9to5mac.com/2021/05/30/ipados-15-wish-list-for-improving-ipad-quality-of-life-sans-mac/) (iPadOS 15)
+- [Zack Apiratitham](https://vatthikorn.com/wwdc-2021-wish-list)
 
 ## Podcast Episodes
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
