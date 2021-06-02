@@ -22,6 +22,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Connected Episode 348: The Rickies (WWDC 2021)](https://www.relay.fm/connected/348) (Predictions)
 - [Cup of Tech Episode 130: WWDC21 Predictions - Respect & Boos](http://cupof.tech/episode/0a165dba/130-wwdc21-predictions-respect-boos) (Predictions)
 - [Swift by Sundell 97: "Anything can happen during WWDC"](https://www.swiftbysundell.com/podcast/97/) with special guest Ish ShaBazz
+- [Upgrade Episode 355: The WWDC Keynote Draft 2021](https://www.relay.fm/upgrade/355)
 
 ## Videos
 - [iPadOS 15 Wishlist](https://www.youtube.com/watch?v=eU28EhV66bI) by Damian Mal
@@ -29,6 +30,9 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [What iPadOS 15 Should Be...](https://www.youtube.com/watch?v=RvZU0fXbr3Y) by Christopher Lawley
 
 ## Hardware Announcements
+- 14" MacBook Pro with Apple Silicon
+- Pre-announcement of new Mac Pro
+- New Apple external display
 
 ## User-Facing Apps & Features
 
@@ -42,7 +46,10 @@ A compilation of predictions and wishlists for WWDC 2021.
 - App Library on iPad + ability to place widgets anywhere on home screen
 - Window management using keyboard shortcuts (just copy Windows already, so Cmd + <- tiles a window to the left-half of the screen)
 - Calculator app on iPad
-- Multiple user profiles on iPad.
+- Multiple user profiles on iPad
+- Redesign of the Home app
+- First-party "pro" apps brought from macOS to iPad (i.e. Final Cut Pro, Logic, etc.)
+- More size options for widgets
 
 ### watchOS
 - Apple Watch pairing with iPad
@@ -51,6 +58,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### macOS
 - Widgets should be moved somewhere other than the Notifications panel. (Becky Hansmeyer)
 - Window management using keyboard shortcuts (just copy Windows already, so Cmd + <- tiles a window to the left-half of the screen)
+- Shortcuts!
 
 ### tvOS
 
@@ -97,6 +105,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ## App Store Policy, Tools, and APIs
 - TestFlight for macOS
+- Upgrade pricing
 
 ## Augmented Reality, Virtual Reality, or Mixed Reality
 - Support ARKit replay data in simulators
