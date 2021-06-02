@@ -64,8 +64,6 @@ A compilation of predictions and wishlists for WWDC 2021.
 
 ## Developer Tools & Frameworks
 
-### UIKit
-
 ### SwiftUI
 - A way to manage First Responder (think TextField focus and tab order)
 - Search Bar support or similar in `List`s or `ScrollView`s to add views to the navigation bar that appear with a scroll gesture. ([@JoshHrach](https://twitter.com/JoshHrach))
@@ -81,7 +79,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Add pin selection detection in `Map` and add a two way binding for the selected pin.
 - Ability to include `Link` within `Text`
 
-### Other Apple Frameworks (i.e. AVFoundation, SiriKit, etc.)
+### Other Apple Frameworks (i.e. AVFoundation, UIKit, SiriKit, etc.)
 - A modern successor to Core Data that plays well with Combine and SwiftUI
 - A sync solution that combines CloudKit and Multipeer Connectivity or Watch Connectivity, so that sync is instantaneous when devices are nearby. ([@stevenpotato](https://twitter.com/stevenpotato))
 - Improved support in NSPersistentCloudKitContainer for scheduling background uploads, improving the reliability of saving to CloudKit when used in an app extension (Josh Hrach)
