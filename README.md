@@ -50,6 +50,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Redesign of the Home app
 - First-party "pro" apps brought from macOS to iPad (i.e. Final Cut Pro, Logic, etc.)
 - More size options for widgets
+- A modern take on [Location Manager](https://www.aelius.com/njh/macos9/airportalm.jpg): different 'profiles' of settings (VPN, passcode security, DnD, …) depending on contexts (e.g., whether you are at work, at home, or on the go).
 
 ### watchOS
 - Apple Watch pairing with iPad
