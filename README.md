@@ -6,6 +6,8 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Luke Filipowicz, iMore](https://www.imore.com/these-are-features-i-want-see-watchos-8) (watchOS 8)
 - [Becky Hansmeyer](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/)
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
+- [Christopher Lawley](https://theuntitledsite.com/ipados-15-wishlist) (iPadOS 15)
+- [Cory Zanoni](https://www.kitescantfly.com/2021/04/wwdc-21-wishlist.html)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
 - [Majid Jabrayilov](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) (SwiftUI Wishlist)
 - [Matt VanOrmer, Peer Reviewed](https://www.peerreviewed.io/blog/2021/5/4/my-hope-filled-wish-list-for-wwdc-2021)
