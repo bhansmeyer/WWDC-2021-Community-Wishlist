@@ -23,6 +23,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [AppStories Episode 217: Our macOS WWDC Wishes](https://appstories.net/episodes/217/)
 - [AppStories Episode 218: Our iOS 15 Wishes](https://appstories.net/episodes/218/)
 - [AppStories Episode 220: Our iPadOS 15 Wishes](https://appstories.net/episodes/220/)
+- [Clockwise, Episode 401: You Over-Clevered It](https://www.relay.fm/clockwise/401)
 - [Connected Episode 348: The Rickies (WWDC 2021)](https://www.relay.fm/connected/348) (Predictions)
 - [Cup of Tech Episode 130: WWDC21 Predictions - Respect & Boos](http://cupof.tech/episode/0a165dba/130-wwdc21-predictions-respect-boos) (Predictions)
 - [Stacktrace Episode 138: WWDC21 Keynote Poker](https://9to5mac.com/2021/06/02/stacktrace-podcast-138-wwdc21-keynote-poker/)
