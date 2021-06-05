@@ -8,6 +8,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Casey Liss](https://www.caseyliss.com/2021/5/11/wwdc-wishes)
 - [Christopher Lawley](https://theuntitledsite.com/ipados-15-wishlist) (iPadOS 15)
 - [Cory Zanoni](https://www.kitescantfly.com/2021/04/wwdc-21-wishlist.html)
+- [Dan Moren, Macworld](https://www.macworld.com/article/347967/wwdc-2021-ipados-15-ipad-pro-home-screen-widgets-pro-apps-multitasking-keyboard-shortcuts.html) (iPadOS 15)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
 - [John Sundell](https://www.swiftbysundell.com/articles/a-swift-developers-wwdc-dreams-2021)
 - [Majid Jabrayilov](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) (SwiftUI Wishlist)
@@ -24,6 +25,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [AppStories Episode 220: Our iPadOS 15 Wishes](https://appstories.net/episodes/220/)
 - [Connected Episode 348: The Rickies (WWDC 2021)](https://www.relay.fm/connected/348) (Predictions)
 - [Cup of Tech Episode 130: WWDC21 Predictions - Respect & Boos](http://cupof.tech/episode/0a165dba/130-wwdc21-predictions-respect-boos) (Predictions)
+- [Stacktrace Episode 138: WWDC21 Keynote Poker](https://9to5mac.com/2021/06/02/stacktrace-podcast-138-wwdc21-keynote-poker/)
 - [Swift by Sundell 97: "Anything can happen during WWDC"](https://www.swiftbysundell.com/podcast/97/) with special guest Ish ShaBazz
 - [Upgrade Episode 355: The WWDC Keynote Draft 2021](https://www.relay.fm/upgrade/355)
 
