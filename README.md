@@ -10,6 +10,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - [Cory Zanoni](https://www.kitescantfly.com/2021/04/wwdc-21-wishlist.html)
 - [Dan Moren, Macworld](https://www.macworld.com/article/347967/wwdc-2021-ipados-15-ipad-pro-home-screen-widgets-pro-apps-multitasking-keyboard-shortcuts.html) (iPadOS 15)
 - [Federico Zanetello, Five Stars](https://www.fivestars.blog/articles/wwdc21-wishlist/)
+- [John Pollard](https://writingontablets.com/WWDC-2021-Wishlist)
 - [John Sundell](https://www.swiftbysundell.com/articles/a-swift-developers-wwdc-dreams-2021)
 - [Majid Jabrayilov](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) (SwiftUI Wishlist)
 - [Matt VanOrmer, Peer Reviewed](https://www.peerreviewed.io/blog/2021/5/4/my-hope-filled-wish-list-for-wwdc-2021)
